@@ -1,0 +1,15 @@
+{
+  "name": "fancy-florist-admin",
+  "version": "1.0.0",
+  "description": "Frontend Admin untuk Toko Bunga Fancy Florist",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
