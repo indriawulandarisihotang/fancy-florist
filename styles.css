@@ -1,0 +1,33 @@
+/* Custom styles for the admin dashboard */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#sidebar {
+    background-color: #f8f9fa;
+    height: 100vh;
+}
+
+.sidebar-heading {
+    font-size: 1.2rem;
+    margin: 1rem;
+}
+
+.nav-link {
+    padding: 0.75rem 1.25rem;
+    color: #333;
+}
+
+.nav-link.active {
+    background-color: #e9ecef;
+    color: #007bff;
+}
+
+.header {
+    background-color: #343a40;
+    color: white;
+}
+
+#content {
+    margin-top: 2rem;
+}
